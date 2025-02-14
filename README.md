@@ -4,7 +4,9 @@ Here is simple code for an access system. You need to enter password to turn on 
 
 '*' is acts like enter key , and '#' is acts like delete key. Default password is 123A in the code.
 
-There is also a capacitive touch button to control relay without password, it can be consider the button inside of door.
+There is also a capacitive touch button to control relay without password. 
+
+This can be consider the button inside of the door.
 
 
 ## Setup:
